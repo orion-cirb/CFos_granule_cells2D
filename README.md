@@ -1,12 +1,9 @@
 # CFos_Granule_Cells2D
 
-**Developed for:** Beetsi
-
-**Team:** Selimi
-
-**Date:** January 2023
-
-**Software:** Fiji
+* **Developed for:** Beetsi
+* **Team:** Selimi
+* **Date:** January 2023
+* **Software:** Fiji
 
 ### Images description
 
